@@ -308,9 +308,6 @@ console.log("dddddddddddddd", fields)
         <div>
         <div>
                 <input type="file" onChange={this.onFileChange} />
-                <button onClick={this.onFileUpload}>
-                  Upload!
-                </button>
             </div>
         </div>
         {/* <div>
